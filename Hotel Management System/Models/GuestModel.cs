@@ -8,13 +8,13 @@ namespace Hotel_Management_System.Models
 {
     public class GuestModel
     {
-        string uestId;
+       public string guestId { get; set; }
        public string fullName { get; set; }
        public string email { get; set; }
        public string phoneNumber { get; set; }
         public static string nationality { get; set; } = "Omani";
 
-      //public List<BookingModel> { get; set; }
+      public List<BookingModel> guest { get; set; }
     }
 
 }

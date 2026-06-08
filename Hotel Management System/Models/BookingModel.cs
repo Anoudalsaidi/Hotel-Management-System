@@ -16,6 +16,6 @@ namespace Hotel_Management_System.Models
         public double totalPrice { get; set; }
         public string status { get; set; }
 
-        //public List <ReviewModel> { get; set; }
+        public List <ReviewModel> reviews { get; set; }
     }
 }
