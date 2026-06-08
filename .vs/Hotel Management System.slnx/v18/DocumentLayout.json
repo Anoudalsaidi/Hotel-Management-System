@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\models\\roommode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\roommode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\models\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\hotel management system\\hotel management system\\hotel management system\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,19 +62,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReviewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\ReviewModel.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Models\\ReviewModel.cs",
-              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\ReviewModel.cs",
-              "RelativeToolTip": "Hotel Management System\\Models\\ReviewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\RoomService.cs",
+              "RelativeToolTip": "Hotel Management System\\Services\\RoomService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T07:47:11.291Z",
+              "WhenOpened": "2026-06-08T07:49:09.436Z",
               "EditorCaption": ""
             },
             {
@@ -85,7 +85,7 @@
               "RelativeDocumentMoniker": "Hotel Management System\\Models\\GuestModel.cs",
               "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\GuestModel.cs",
               "RelativeToolTip": "Hotel Management System\\Models\\GuestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T07:46:28.883Z",
               "EditorCaption": ""
@@ -98,14 +98,14 @@
               "RelativeDocumentMoniker": "Hotel Management System\\Models\\RoomMode.cs",
               "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\RoomMode.cs",
               "RelativeToolTip": "Hotel Management System\\Models\\RoomMode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T07:46:44.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StaffModel.cs",
               "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\StaffModel.cs",
               "RelativeDocumentMoniker": "Hotel Management System\\Models\\StaffModel.cs",
@@ -119,6 +119,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\GuestService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Services\\GuestService.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\GuestService.cs",
+              "RelativeToolTip": "Hotel Management System\\Services\\GuestService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:48:54.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\EmailService.cs",
+              "RelativeToolTip": "Hotel Management System\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:50:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\ReviewService.cs",
+              "RelativeToolTip": "Hotel Management System\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:49:45.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Program.cs",
+              "RelativeToolTip": "Hotel Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:42:54.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\ReviewModel.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\ReviewModel.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\ReviewModel.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\ReviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:47:11.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BookingModel.cs",
               "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\BookingModel.cs",
               "RelativeDocumentMoniker": "Hotel Management System\\Models\\BookingModel.cs",
@@ -126,24 +190,11 @@
               "RelativeToolTip": "Hotel Management System\\Models\\BookingModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T07:46:58.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T07:46:58.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Program.cs",
-              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Program.cs",
-              "RelativeToolTip": "Hotel Management System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T07:42:54.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "HotelContext.cs",
               "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\HotelContext.cs",
               "RelativeDocumentMoniker": "Hotel Management System\\HotelContext.cs",
@@ -155,19 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\ReviewService.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Services\\ReviewService.cs",
-              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\ReviewService.cs",
-              "RelativeToolTip": "Hotel Management System\\Services\\ReviewService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T07:49:45.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "StaffService.cs",
               "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\StaffService.cs",
               "RelativeDocumentMoniker": "Hotel Management System\\Services\\StaffService.cs",
@@ -179,19 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\EmailService.cs",
-              "RelativeToolTip": "Hotel Management System\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T07:50:13.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BookingService.cs",
               "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\BookingService.cs",
               "RelativeDocumentMoniker": "Hotel Management System\\Services\\BookingService.cs",
@@ -200,30 +227,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T07:49:25.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\RoomService.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Services\\RoomService.cs",
-              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\RoomService.cs",
-              "RelativeToolTip": "Hotel Management System\\Services\\RoomService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T07:49:09.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GuestService.cs",
-              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\GuestService.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Services\\GuestService.cs",
-              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\GuestService.cs",
-              "RelativeToolTip": "Hotel Management System\\Services\\GuestService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T07:48:54.777Z"
             }
           ]
         }
