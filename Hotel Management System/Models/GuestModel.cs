@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Hotel_Management_System.Models
 {
-    internal class GuestModel
+    public class GuestModel
     {
+        string uestId;
+       public string fullName { get; set; }
+       public string email { get; set; }
+       public string phoneNumber { get; set; }
+        public static string nationality { get; set; } = "Omani";
+
+      //public List<BookingModel> { get; set; }
     }
+
 }
