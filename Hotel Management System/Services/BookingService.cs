@@ -65,15 +65,18 @@ namespace Hotel_Management_System.Services
                 }
             }
         
-        public static void CompleteBooking(BookingModel booking, RoomMode room, string roomnum)
+        public static bool CompleteBooking(BookingModel booking, RoomMode room, string roomnum)
         {
             foreach(BookingModel comp in new List<BookingModel>())
              
-            if (comp.roomNumber == roomnum)
+            if (comp.roomNumber == roomnum) 
                 {
                     comp.status = "completed";
-                    
+                  
+                     //RoomMode.isAvailable;
                 }
+            return true;
+           
         }
 
 
