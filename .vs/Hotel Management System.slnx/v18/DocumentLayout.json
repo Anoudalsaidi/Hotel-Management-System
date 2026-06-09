@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "Hotel Management System\\Services\\StaffService.cs",
               "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\StaffService.cs",
               "RelativeToolTip": "Hotel Management System\\Services\\StaffService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T07:50:01.645Z",
               "EditorCaption": ""
@@ -111,7 +111,8 @@
               "RelativeToolTip": "Hotel Management System\\Models\\StaffModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T07:47:26.919Z"
+              "WhenOpened": "2026-06-08T07:47:26.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
