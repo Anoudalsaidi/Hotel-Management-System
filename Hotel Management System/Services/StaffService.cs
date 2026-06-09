@@ -9,13 +9,13 @@ namespace Hotel_Management_System.Services
 {
     public class StaffService
     {
-        //public static void DisplayAllStaff(List<StaffModel> stt)
-        //{
-        //    foreach(StaffModel staff in stt)
-        //    {
-        //        Console.WriteLine($"");
-        //    }
+        public static void DisplayAllStaff(List<StaffModel> stt)
+        {
+            foreach (StaffModel staff in stt)
+            {
+                Console.WriteLine($"");
+            }
 
-        //}
+        }
     }
 }
