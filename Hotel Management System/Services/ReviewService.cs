@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Hotel_Management_System.Services
 {
-    internal class ReviewService
+   public class ReviewService
     {
+
     }
 }

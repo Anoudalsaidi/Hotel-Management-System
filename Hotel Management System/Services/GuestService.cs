@@ -24,11 +24,9 @@ namespace Hotel_Management_System.Services
             }
         }
 
-        public static void FindGuestById()
+        public static void FindGuestById(string guestid)
         {
             List<GuestModel> GMid = new List<GuestModel>();
-
-            string guestid = "";
 
 
             foreach (GuestModel item in GMid)

@@ -43,12 +43,9 @@ namespace Hotel_Management_System.Services
             }
         }
 
-        public static void FindRoomByNumber()
+        public static void FindRoomByNumber(string seachroomnum)
         {
             List<RoomMode> searchroom = new List<RoomMode>();
-
-
-            string seachroomnum = "";
 
             foreach (RoomMode item in searchroom)
             {
@@ -60,13 +57,13 @@ namespace Hotel_Management_System.Services
             }
         }
 
-        public static void CalculateTotalPrice(int pricePerNight)
+        public static void CalculateTotalPrice(int pricePerNight, int nights)
         {
             List<RoomMode> calprice = new List<RoomMode>();
 
 
-           int nights= 0;
             pricePerNight = pricePerNight * nights;
+
           
 
             Console.WriteLine($"Total price : Nights{nights} * price per Night = {pricePerNight}");
