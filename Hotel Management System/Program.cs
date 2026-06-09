@@ -58,13 +58,15 @@ namespace Hotel_Management_System
         }
         public static void DisplayAvailableRooms(HotelContext context) // case 3
         {
-            foreach(RoomMode romserves in context.rooms)
+            if (context.rooms == null)
             {
-                Console.WriteLine($"Available Rooms{context.rooms} ");
-            } 
-            
+                Console.WriteLine("No rooms in system");
+            }
+            else
+            {
+                RoomService.DisplayAvailableRooms(context.rooms);
+            }
         }
-
         public static void AddStaff(HotelContext context)
         {
             Console.WriteLine("Enter Staff ID :");
@@ -91,9 +93,8 @@ namespace Hotel_Management_System
 
         public static void DisplayAllStaff(HotelContext context)
         {
-            foreach (
-            }
-        }
+            StaffService.DisplayAllStaff(context.staff);
+        } // case 5
 
 
 
@@ -140,6 +141,7 @@ namespace Hotel_Management_System
                     AddStaff(context);
                     break;
                 case 5:
+                    DisplayAllStaff(context);
                     break;
             }
         }

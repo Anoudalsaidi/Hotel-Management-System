@@ -21,13 +21,13 @@ namespace Hotel_Management_System.Services
             }
         }
 
-        public static void DisplayAvailableRooms( bool isAvailable)
+        public static void DisplayAvailableRooms(List<RoomMode> roo)
         {
-            List<RoomMode> availableroom = new List<RoomMode>();
+          
 
 
 
-            foreach (RoomMode item in availableroom)
+            foreach (RoomMode item in roo)
             {
                 if (item.isAvailable == true)
                    
