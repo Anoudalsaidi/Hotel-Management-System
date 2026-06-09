@@ -9,6 +9,7 @@ namespace Hotel_Management_System
 {
     public class HotelContext
     {
+        
         public List<BookingModel> boookings { get; set; }
         public List<GuestModel> guests { get; set; }
         public List<ReviewModel> reviews { get; set; }

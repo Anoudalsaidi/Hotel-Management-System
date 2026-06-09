@@ -46,10 +46,16 @@ namespace Hotel_Management_System.Services
             if(duty.isOnDuty == true)
             {
                 duty.isOnDuty = false;
+                Console.WriteLine($"Staff id : {duty.staffId}," +
+                    $"Full Name Staff: {duty.fullName}," +
+                    $"isOnDuty :{duty.isOnDuty}");
             }
             else
             {
                 duty.isOnDuty = true;
+                Console.WriteLine($"Staff id : {duty.staffId}," +
+                   $"Full Name Staff: {duty.fullName}," +
+                   $"isOnDuty :{duty.isOnDuty}");
             }
            
         }
