@@ -1,5 +1,6 @@
 ﻿using Hotel_Management_System.Models;
 using Hotel_Management_System.Services;
+using System.Data;
 using System.Drawing;
 using System.Security.Cryptography.X509Certificates;
 
@@ -9,7 +10,7 @@ namespace Hotel_Management_System
     {
         public static void RegisterGuest(HotelContext context) //case 1
         {
-          
+
             Console.WriteLine("Enter Guest ID :");
             String guestid = Console.ReadLine();
             Console.WriteLine("Enter Full Name:");
@@ -27,10 +28,10 @@ namespace Hotel_Management_System
                 guest = new List<BookingModel>()
 
             });
-            
-           // EmailService.SendEmail(SystemEmail, "Guest Registeration", "Thank you for registering. We look forward to hosting you!");
-            
-            EmailService.SendEmail("hms@grandcodeline.om", "Welcome to Grand Codeline Hotel", "Thank you for registering. We look forward to hosting you!");
+
+        
+
+            EmailService.SendEmail(Email, "Welcome to Grand Codeline Hotel", "Thank you for registering. We look forward to hosting you!");
             Console.WriteLine("Guest Registered Successfuly");
         }
         public static void AddRoom(HotelContext context)// case 2
@@ -55,9 +56,52 @@ namespace Hotel_Management_System
 
 
         }
+        public static void DisplayAvailableRooms(HotelContext context) // case 3
+        {
+            foreach(RoomMode romserves in context.rooms)
+            {
+                Console.WriteLine($"Available Rooms{context.rooms} ");
+            } 
+            
+        }
+
+        public static void AddStaff(HotelContext context)
+        {
+            Console.WriteLine("Enter Staff ID :");
+            String staffid = Console.ReadLine();
+            Console.WriteLine("Enter Full Name:");
+            String fullname = Console.ReadLine();
+            Console.WriteLine("Enter email  :");
+            String Email = Console.ReadLine();
+            Console.WriteLine("Enter Role  :");
+            String Role = Console.ReadLine();
+
+            context.staff.Add(new StaffModel
+            {
+                staffId = staffid,
+                fullName = fullname,
+                role = Role,
+                email = Email,
+                isOnDuty = true
+
+            });
+            Console.WriteLine("Staff Added Successfuly");
+        } // case 4
 
 
-      public  static void Main(string[] args)
+        public static void DisplayAllStaff(HotelContext context)
+        {
+            foreach (
+            }
+        }
+
+
+
+
+
+
+
+        public static void Main(string[] args)
         {
             HotelContext context = new HotelContext();
             context.boookings = new List<BookingModel>();
@@ -65,12 +109,14 @@ namespace Hotel_Management_System
             context.reviews = new List<ReviewModel>();
             context.rooms = new List<RoomMode>();
             context.staff = new List<StaffModel>();
+            RoomService servise = new RoomService();
+           
 
 
             bool loop = false;
-           while(loop == false)
+            while (loop == false)
 
-            Console.WriteLine("Welcome to Grand Codeline Hotel");
+                Console.WriteLine("Welcome to Grand Codeline Hotel");
             Console.WriteLine("1. Register Guest");
             Console.WriteLine("2. Add Room");
             Console.WriteLine("3. Display Available Rooms");
@@ -88,16 +134,17 @@ namespace Hotel_Management_System
                     AddRoom(context);
                     break;
                 case 3:
+                    DisplayAvailableRooms(context);
                     break;
                 case 4:
+                    AddStaff(context);
                     break;
                 case 5:
                     break;
             }
         }
-            
-            
 
-        }
-    }
+
+
+     }
 }
