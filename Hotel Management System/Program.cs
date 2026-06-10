@@ -90,11 +90,41 @@ namespace Hotel_Management_System
             Console.WriteLine("Staff Added Successfuly");
         } // case 4
 
-
         public static void DisplayAllStaff(HotelContext context)
         {
             StaffService.DisplayAllStaff(context.staff);
         } // case 5
+        public static void BookRoom(HotelContext context)
+        {
+            Console.WriteLine("Enter Guest ID :");
+            string guetid = Console.ReadLine();
+            Console.WriteLine("Enter Room Numbeer :");
+            string romNumber = Console.ReadLine();
+
+         var guest = GuestService.FindGuestById(context.guests, guetid);
+            if(guest == null)
+            {
+                Console.WriteLine("user not found");
+                return;
+            }
+         var room =   RoomService.FindRoomByNumber(context.rooms, romNumber);
+            {
+                if (guest == null)
+                {
+                    Console.WriteLine("Room not found");
+                    return;
+                }
+            }
+         
+            {
+                if(room.isAvailable == false)
+                {
+                    Console.WriteLine("Room Not Avaiable");
+                    return;
+                }
+                
+            }
+        }
 
 
 
@@ -110,14 +140,16 @@ namespace Hotel_Management_System
             context.reviews = new List<ReviewModel>();
             context.rooms = new List<RoomMode>();
             context.staff = new List<StaffModel>();
-            RoomService servise = new RoomService();
-           
+
+
+
+
 
 
             bool loop = false;
             while (loop == false)
 
-                Console.WriteLine("Welcome to Grand Codeline Hotel");
+            Console.WriteLine("Welcome to Grand Codeline Hotel");
             Console.WriteLine("1. Register Guest");
             Console.WriteLine("2. Add Room");
             Console.WriteLine("3. Display Available Rooms");

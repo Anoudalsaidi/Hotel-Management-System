@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Net.NetworkInformation;
 using System.Reflection;
 using System.Text;
@@ -11,9 +12,9 @@ namespace Hotel_Management_System.Services
 {
    public class BookingService
     {
-        public static void DisplayAllBookings()
+        public static void DisplayAllBookings(List<BookingModel> booking)
         {
-            List<BookingModel> booking = new List<BookingModel>();
+            //List<BookingModel> booking = new List<BookingModel>();
 
             foreach(BookingModel book in booking)
             {
@@ -27,55 +28,50 @@ namespace Hotel_Management_System.Services
             }
         }
 
-        public static void FindBookingById( string bookingId, string bid)
+        public static BookingModel FindBookingById(List<BookingModel> bookid, string bookingId, string bid)
         {
-            List<BookingModel> bookid = new List<BookingModel>();
+           
 
-            foreach(BookingModel bookId in bookid)
+            foreach(BookingModel booking in bookid)
             {
-                if(bookId.bookingId == bid)
+                if (booking.bookingId == bid)
                 {
-                    Console.WriteLine($"Bookig Id : {bid} matching with Id: {bookId.bookingId} ");
-                }
-                else
-                {
-                    Console.WriteLine("No Match Id");
-                }
+                    return booking;                }
             }
+            return null;
         }
 
-        public static void CancelBooking(string bookingId)
+        public static bool CancelBooking(BookingModel cancelbook,string bookingId)
         {
-            List<BookingModel> cancelbook = new List<BookingModel>();
+          
             
-            bool check = false;
-            foreach(BookingModel cancel in cancelbook)
-            {
-                if(cancel.bookingId == bookingId)
+
+                if(cancelbook.status == "cancelled") 
                 {
-                    cancel.status = "cancelled";
-                    Console.WriteLine($"Booking ID : {cancel.bookingId} is Canceled{check}");
-                    check =true;
-                    break;
+                return false;
                 }
-                if(!check)
-                {
-                    Console.WriteLine("Booking already cancelled");
-                }
-                }
+               else
+               {
+                cancelbook.status = "cancelled";
+                return true;
+               }
+
             }
         
         public static bool CompleteBooking(BookingModel booking, RoomMode room, string roomnum)
         {
-            foreach(BookingModel comp in new List<BookingModel>())
+          
              
-            if (comp.roomNumber == roomnum) 
+            if (booking.status == "completed") 
                 {
-                    comp.status = "completed";
+                return true;
                   
-                     //RoomMode.isAvailable;
+                     
                 }
-            return true;
+            else {
+                booking.status = "completed";
+            }
+            return false;
            
         }
 

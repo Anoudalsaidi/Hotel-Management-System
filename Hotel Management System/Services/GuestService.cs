@@ -11,9 +11,9 @@ namespace Hotel_Management_System.Services
 {
     public static class GuestService
     {
-        public static void DisplayAllGuests()
+        public static void DisplayAllGuests(List<GuestModel> GuestM)
         {
-            List<GuestModel> GuestM = new List<GuestModel>();
+           
             
            foreach (GuestModel item in GuestM)
             {
@@ -24,23 +24,23 @@ namespace Hotel_Management_System.Services
             }
         }
 
-        public static void FindGuestById(string guestid)
+        public static GuestModel FindGuestById(List<GuestModel> GMid, string guestid)
         {
-            List<GuestModel> GMid = new List<GuestModel>();
-
+           
 
             foreach (GuestModel item in GMid)
             {
                 if (item.guestId == guestid)
                 {
                     Console.WriteLine($"Guest ID is :{item.guestId}");
-
+                    return item;
                 }
-                else
-                {
-                    Console.WriteLine("Guest Not Found");
-                }
+           
             }
+                            
+                Console.WriteLine("Guest Not Found");
+            return null;
+
         }
 
     }

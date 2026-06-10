@@ -9,9 +9,9 @@ namespace Hotel_Management_System.Services
 {
    public  class RoomService
     {
-        public static void DisplayAllRooms()
+        public static void DisplayAllRooms(List<RoomMode> room)
         {
-            List<RoomMode> room = new List<RoomMode>();
+            
 
             foreach(RoomMode item in room){
                 Console.WriteLine($"Room Number: {item.roomNumber}," +
@@ -23,9 +23,6 @@ namespace Hotel_Management_System.Services
 
         public static void DisplayAvailableRooms(List<RoomMode> roo)
         {
-          
-
-
 
             foreach (RoomMode item in roo)
             {
@@ -43,30 +40,31 @@ namespace Hotel_Management_System.Services
             }
         }
 
-        public static void FindRoomByNumber(string seachroomnum)
+        public static RoomMode FindRoomByNumber(List<RoomMode> searchroom, string seachroomnum)
         {
-            List<RoomMode> searchroom = new List<RoomMode>();
+           ;
 
             foreach (RoomMode item in searchroom)
             {
                 if (item.roomNumber == seachroomnum)
                 {
-                    Console.WriteLine($"Room {item.roomNumber}");
+                    return item;
                 }
+              
 
             }
+
+            return null;
         }
 
-        public static void CalculateTotalPrice(int pricePerNight, int nights)
+        public static double CalculateTotalPrice(RoomMode calprice, int nights)
         {
-            List<RoomMode> calprice = new List<RoomMode>();
 
+            return calprice.pricePerNight * nights;
+        
+        
 
-            pricePerNight = pricePerNight * nights;
-
-          
-
-            Console.WriteLine($"Total price : Nights{nights} * price per Night = {pricePerNight}");
+            Console.WriteLine($"Total price : Nights{nights} * price per Night = {calprice.pricePerNight}");
         }
 
     }
